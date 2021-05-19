@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rtc-demo/static/css/main.754d5b50.chunk.css",
-    "main.js": "/rtc-demo/static/js/main.8ae7dbca.chunk.js",
-    "main.js.map": "/rtc-demo/static/js/main.8ae7dbca.chunk.js.map",
-    "runtime-main.js": "/rtc-demo/static/js/runtime-main.d0e5493b.js",
-    "runtime-main.js.map": "/rtc-demo/static/js/runtime-main.d0e5493b.js.map",
-    "static/js/2.d8f53a63.chunk.js": "/rtc-demo/static/js/2.d8f53a63.chunk.js",
-    "static/js/2.d8f53a63.chunk.js.map": "/rtc-demo/static/js/2.d8f53a63.chunk.js.map",
-    "index.html": "/rtc-demo/index.html",
-    "static/css/main.754d5b50.chunk.css.map": "/rtc-demo/static/css/main.754d5b50.chunk.css.map",
-    "static/js/2.d8f53a63.chunk.js.LICENSE.txt": "/rtc-demo/static/js/2.d8f53a63.chunk.js.LICENSE.txt"
+    "main.css": "/webrtcReactDemo/static/css/main.754d5b50.chunk.css",
+    "main.js": "/webrtcReactDemo/static/js/main.8ae7dbca.chunk.js",
+    "main.js.map": "/webrtcReactDemo/static/js/main.8ae7dbca.chunk.js.map",
+    "runtime-main.js": "/webrtcReactDemo/static/js/runtime-main.77ea4fc6.js",
+    "runtime-main.js.map": "/webrtcReactDemo/static/js/runtime-main.77ea4fc6.js.map",
+    "static/js/2.4efc6a6d.chunk.js": "/webrtcReactDemo/static/js/2.4efc6a6d.chunk.js",
+    "static/js/2.4efc6a6d.chunk.js.map": "/webrtcReactDemo/static/js/2.4efc6a6d.chunk.js.map",
+    "index.html": "/webrtcReactDemo/index.html",
+    "static/css/main.754d5b50.chunk.css.map": "/webrtcReactDemo/static/css/main.754d5b50.chunk.css.map",
+    "static/js/2.4efc6a6d.chunk.js.LICENSE.txt": "/webrtcReactDemo/static/js/2.4efc6a6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0e5493b.js",
-    "static/js/2.d8f53a63.chunk.js",
+    "static/js/runtime-main.77ea4fc6.js",
+    "static/js/2.4efc6a6d.chunk.js",
     "static/css/main.754d5b50.chunk.css",
     "static/js/main.8ae7dbca.chunk.js"
   ]
